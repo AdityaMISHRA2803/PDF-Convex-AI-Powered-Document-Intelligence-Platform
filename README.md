@@ -13,7 +13,7 @@ apt install cmake build-essential python3-dev
 ```
 Clone the project
 ```bash
-git clone git@github.com:Vaivav2003/pdf-convex.git
+https://github.com/AdityaMISHRA2803/PDF-Convex-AI-Powered-Document-Intelligence-Platform.git
 ```
 Go inside the backend folder
 ```bash
